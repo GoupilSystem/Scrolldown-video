@@ -1,0 +1,29 @@
+:root {
+    --hc-white-1: #cfcfcf;
+    --hc-white-2: #f0f0f0;
+    --hc-white-3: #f6f6f6;
+    --hc-torquoise: #7efdf6;
+    --hc-black-1: #191919;
+    --hc-black-2: #252525;
+    --hc-dark-grey-1: #414040;
+    --hc-dark-grey-2: #4f4f4f;
+    --hc-dark-grey-3: #535353;
+    --hc-dark-grey-4: #5d5d5d;
+    --hc-font: var(--hc-white-2);
+    --hc-holocare-sub-logo-color: var(--hc-torquoise);
+    --hc-nav-menu-background: var(--hc-dark-grey-2);
+    --hc-nav-menu-background-parent: var(--hc-dark-grey-1);
+    --hc-nav-menu-background-child: var(--hc-dark-grey-4);
+    --hc-nav-item-active-background: var(--hc-dark-grey-1);
+    --hc-nav-item-hover-background: var(--hc-dark-grey-4);
+    --hc-progress-bar-background: var(--hc-white-3);
+    --hc-border-white: var(--hc-white-3);
+    --hc-slider-background: var(--hc-black-1);
+    --hc-slider-range-background: var(--hc-white-1);
+    --hc-slider-handle-background: var(--hc-white-3);
+    --black-ish: var(--hc-black-1);
+    --button-dark-background: var(--hc-black-2);
+    --input-dark-background: var(--hc-black-2);
+    --grid-dark-background: var(--hc-black-2);
+    --grid-grey-background: var(--hc-dark-grey-4);
+}
